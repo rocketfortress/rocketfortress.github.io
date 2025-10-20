@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://rocketfortress.github.io/sitemap.xml
